@@ -3,12 +3,11 @@ owner: SoftwareDeveloper2002  # Your GitHub organization or username
 repo: upper                   # The name of this repository
 
 sites:
-  - name: rtechon
+  - name: rtechonn
     url: https://crmbackend-6ka4.onrender.com
 
 status-website:
   # Use your custom domain if you have one
-  cname: demo.upptime.js.org
   # Base URL for GitHub Pages
   baseUrl: /upper
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
